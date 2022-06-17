@@ -1,0 +1,93 @@
+<style>
+
+#notice1
+{
+
+	width: 50%;
+	height: auto;
+	border-radius: 30px;
+	background-color:#a5c99e;
+	z-index: -1;
+	margin-bottom: 30px;
+}
+
+#notice2
+{
+	width: 50%;
+	height: auto;
+	border-radius: 30px;
+	background-color:#a5c99e;
+	z-index: -1;
+	margin-bottom: 30px;
+	text-align: left;
+	padding:30px;
+	font-size: 16px; 
+}
+input{
+	margin: .4rem 0;
+	margin-left: 40px;
+  }
+  button{
+	margin: .4rem 0;
+  }
+
+.date
+{
+	float: right;
+	font-size: 18px;
+
+}
+.date1
+{
+	text-align: left;
+	padding-left: 20px;
+	margin-bottom: 5px; 
+
+}
+.time
+{
+	text-align: left;
+	padding-left: 20px;
+	margin-bottom: 5px;
+}
+
+.product
+{
+	text-align: left;
+	padding-left: 20px;
+	margin-bottom: 5px;
+}
+.money
+{
+	text-align: left;
+	padding-left: 20px;
+	margin-bottom: 5px;
+}
+.star{
+	text-align: left;
+	padding-left: 20px;
+	margin-bottom: 5px;
+}
+.quantity
+{
+	text-align: left;
+	padding-left: 20px;
+	margin-bottom: 5px;
+}
+
+pre
+{
+	text-align: left;
+	padding-left: 20px;
+}
+footer{
+    background-color: #83C5BE;
+    color: #444444;
+    text-align: center;
+    padding: 20px;
+	margin-top: 100px;
+	margin-bottom: 0px;
+	width: 100%;
+
+}
+</style>
